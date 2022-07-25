@@ -1,10 +1,10 @@
 [package]
 name = "wz-publish-test"
-version = "0.1.3"
+version = "0.1.4"
 edition = "2021"
 description = "Test publish crate, don't use"
 license = "MIT"
-categories = ["Algorithms"]
+categories = ["algorithms"]
 repository = "https://github.com/kwizzt/wz-publish-test"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
